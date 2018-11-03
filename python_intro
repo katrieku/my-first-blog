@@ -1,0 +1,2 @@
+print('Hello, Django Girls!')
+participant = {'name':'Katri', 'country'='Finland', 'favorite_numbers':[4,12,68]}
